@@ -11,5 +11,8 @@
     "hue"
   ],
   "author": "Tomasz Dysinski <oz@bunnybones.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^9.3.0"
+  }
 }
